@@ -32,4 +32,66 @@ java的字符串的处理和应用，已经抛出异常。
 
 
 四、流程图
-https://github.com/RainsWeep/-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6(13).jpg
+https://github.com/RainsWeep/Java-String/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6(13).jpg
+
+五、核心代码和注释
+	int last = s.length();
+  //定义last为长恨歌字符串长度
+	public Changhenge(String j)
+	{
+		String c = j;
+		for(int i = last - 7; i > 0; i-=7) 
+		{
+			if(i%14==0)
+			{
+				s.insert(i,'。');
+				s.insert(i+1,'\n');
+			}
+			else s.insert(i,'，');
+			}
+   //隔七个加一个符号，奇数加逗号，偶数加句号
+   	StringTokenizer a = new StringTokenizer(d,c);
+		int number = a.countTokens();
+		while(a.hasMoreTokens()) 
+		{
+			String k = a.nextToken();
+		}
+		if(c.equals("行"))
+		{
+			number = number;
+		}
+		else if(c.equals("汉")) 
+		{
+			number = number;
+		}
+		else 
+		{
+			number=number -1;
+		}
+  //查询用户键入的字符在字符串中出现的次数
+  public class NewException extends Exception{
+	public NewException(){
+ 	}
+	public NewException(String str){ 
+            super(str);
+ 	}
+  }
+  //新建一个类用于自定义异常
+  try {
+		changhenge = new Changhenge(write);
+		if(write == "") 
+		{
+			throw new NewException("不能输入空字符");
+		}
+		else 
+			System.out.print(changhenge);
+		}
+		catch (NewException e) 
+		{
+			e.printStackTrace();
+		}
+		finally 
+		{
+			System.out.print("程序运行结束");
+		}
+  //catch捕获异常，throw抛出异常
