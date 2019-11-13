@@ -95,3 +95,11 @@ https://github.com/RainsWeep/Java-String/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D
 			System.out.print("程序运行结束");
 		}
   //catch捕获异常，throw抛出异常
+
+
+六、运行截图
+用户键入“不”的结果：https://github.com/RainsWeep/Java-String/blob/master/1573627121(1).png
+用户键入“”，即键入空字符的结果：https://github.com/RainsWeep/Java-String/blob/master/1573627154(1).png
+
+
+七、编程感想
