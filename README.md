@@ -98,7 +98,7 @@ https://github.com/RainsWeep/Java-String/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D
 
 
 六、运行截图
-用户键入“不”的结果：https://github.com/RainsWeep/Java-String/blob/master/1573627121(1).png
+用户键入“不”的结果：i[image.text](https://github.com/RainsWeep/Java-String/blob/master/1573627121(1).png)
 用户键入“”，即键入空字符的结果：https://github.com/RainsWeep/Java-String/blob/master/1573627154(1).png
 
 
