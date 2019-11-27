@@ -32,7 +32,7 @@ java的字符串的处理和应用，以及抛出异常。
 
 
 四、流程图
-https://github.com/RainsWeep/Java-String/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6(13).jpg
+![text](https://github.com/RainsWeep/Java-String/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6(13).jpg)
 
 五、核心代码和注释
 	int last = s.length();
